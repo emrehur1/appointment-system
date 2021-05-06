@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{21E867C0-77FC-4C61-ADA6-F12FF2F158CF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjeSon</RootNamespace>
+    <AssemblyName>ProjeSon</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllApp.Designer.cs">
+      <DependentUpon>AllApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllEmpShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllEmpShow.Designer.cs">
+      <DependentUpon>AllEmpShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllUserShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllUserShow.Designer.cs">
+      <DependentUpon>AllUserShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnswerQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnswerQuestion.Designer.cs">
+      <DependentUpon>AnswerQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ask.Designer.cs">
+      <DependentUpon>Ask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompEmpDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompEmpDate.Designer.cs">
+      <DependentUpon>CompEmpDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompEmpTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompEmpTime.Designer.cs">
+      <DependentUpon>CompEmpTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Admin.cs" />
+    <Compile Include="Data\AskAnswer.cs" />
+    <Compile Include="Data\CompEmp.cs" />
+    <Compile Include="Data\DBEntity.cs" />
+    <Compile Include="Data\DialogCustom.cs" />
+    <Compile Include="Data\NormUser.cs" />
+    <Compile Include="Data\tblAppointments.cs" />
+    <Compile Include="Data\tblCategory.cs" />
+    <Compile Include="Data\tblCompany.cs" />
+    <Compile Include="Data\tblRoleMenu.cs" />
+    <Compile Include="Data\tblRoleType.cs" />
+    <Compile Include="Data\tblUser.cs" />
+    <Compile Include="CompAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompAddForm.Designer.cs">
+      <DependentUpon>CompAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompDeleteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompDeleteForm.Designer.cs">
+      <DependentUpon>CompDeleteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompUpdateForm.Designer.cs">
+      <DependentUpon>CompUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompEmpAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompEmpAdd.Designer.cs">
+      <DependentUpon>CompEmpAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DateApp.Designer.cs">
+      <DependentUpon>DateApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logic\DbAsk.cs" />
+    <Compile Include="Logic\Delete.cs" />
+    <Compile Include="Logic\CompEmpAdd.cs" />
+    <Compile Include="Logic\CompUpdate.cs" />
+    <Compile Include="Logic\companyadd.cs" />
+    <Compile Include="Logic\Listing.cs" />
+    <Compile Include="Logic\normadd.cs" />
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logic\appadd.cs" />
+    <Compile Include="Logic\tblEmpLogic.cs" />
+    <Compile Include="Logic\tblUserLogic.cs" />
+    <Compile Include="Login__Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login__Form.Designer.cs">
+      <DependentUpon>Login__Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="availability.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="availability.Designer.cs">
+      <DependentUpon>availability.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showavailability.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showavailability.Designer.cs">
+      <DependentUpon>showavailability.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Norm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Norm.Designer.cs">
+      <DependentUpon>Norm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NormAppShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NormAppShow.Designer.cs">
+      <DependentUpon>NormAppShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NormShowAnswer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NormShowAnswer.Designer.cs">
+      <DependentUpon>NormShowAnswer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NormShowReply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NormShowReply.Designer.cs">
+      <DependentUpon>NormShowReply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NormUserReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NormUserReg.Designer.cs">
+      <DependentUpon>NormUserReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NormUsrForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NormUsrForm.Designer.cs">
+      <DependentUpon>NormUsrForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShowQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowQuestion.Designer.cs">
+      <DependentUpon>ShowQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimeApp.Designer.cs">
+      <DependentUpon>TimeApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompEmpForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompEmpForm1.Designer.cs">
+      <DependentUpon>CompEmpForm1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AllApp.resx">
+      <DependentUpon>AllApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllEmpShow.resx">
+      <DependentUpon>AllEmpShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllUserShow.resx">
+      <DependentUpon>AllUserShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnswerQuestion.resx">
+      <DependentUpon>AnswerQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ask.resx">
+      <DependentUpon>Ask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompAddForm.resx">
+      <DependentUpon>CompAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompDeleteForm.resx">
+      <DependentUpon>CompDeleteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompEmpDate.resx">
+      <DependentUpon>CompEmpDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompEmpTime.resx">
+      <DependentUpon>CompEmpTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompUpdateForm.resx">
+      <DependentUpon>CompUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompEmpAdd.resx">
+      <DependentUpon>CompEmpAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateApp.resx">
+      <DependentUpon>DateApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login__Form.resx">
+      <DependentUpon>Login__Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="availability.resx">
+      <DependentUpon>availability.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showavailability.resx">
+      <DependentUpon>showavailability.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Norm.resx">
+      <DependentUpon>Norm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NormAppShow.resx">
+      <DependentUpon>NormAppShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NormShowAnswer.resx">
+      <DependentUpon>NormShowAnswer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NormShowReply.resx">
+      <DependentUpon>NormShowReply.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NormUserReg.resx">
+      <DependentUpon>NormUserReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NormUsrForm.resx">
+      <DependentUpon>NormUsrForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ShowQuestion.resx">
+      <DependentUpon>ShowQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeApp.resx">
+      <DependentUpon>TimeApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompEmpForm1.resx">
+      <DependentUpon>CompEmpForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

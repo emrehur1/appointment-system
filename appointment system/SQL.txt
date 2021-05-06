@@ -1,0 +1,71 @@
+
+
+CREATE TABLE [dbo].[Appointments] (
+    [ID]        INT           IDENTITY (1, 1) NOT NULL,
+    [UserID]    INT           NULL,
+    [CompanyID] INT           NULL,
+    [Date]      NVARCHAR (50) NULL,
+    [Time]      INT           NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+
+
+CREATE TABLE [dbo].[Table] (
+    [ID]       INT        NOT NULL,
+    [RoleCode] NCHAR (10) NULL,
+    [RoleName] NCHAR (10) NULL,
+    [RoleType] INT        NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC),
+    CONSTRAINT [FK_Table_Table] FOREIGN KEY ([ID]) REFERENCES [dbo].[Table] ([ID]),
+    CONSTRAINT [FK_Table_Table1] FOREIGN KEY ([ID]) REFERENCES [dbo].[Table] ([ID])
+);
+
+CREATE TABLE [dbo].[tblCategory
+] (
+    [ID]           INT           IDENTITY (1, 1) NOT NULL,
+    [CategoryName] NVARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+
+
+CREATE TABLE [dbo].[tblCompany] (
+    [Id]          INT            IDENTITY (1, 1) NOT NULL,
+    [CompanyName] NVARCHAR (100) NULL,
+    [CategoryID]  INT            NULL,
+    [Adress]      NVARCHAR (500) NULL,
+    [Phone]       NVARCHAR (50)  NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_tblCompany_tblCategory
+] FOREIGN KEY ([CategoryID]) REFERENCES [dbo].[tblCategory
+] ([ID])
+);
+
+
+CREATE TABLE [dbo].[tblQuestionReply] (
+    [ID]           INT            IDENTITY (1, 1) NOT NULL,
+    [CompanyID]    INT            NULL,
+    [QuestionerID] INT            NULL,
+    [Question]     VARCHAR (2000) NULL,
+    [ReplyID]      INT            NULL,
+    [Reply]        VARCHAR (2000) NULL,
+    [Status]       INT            NULL,
+    CONSTRAINT [PK_tblQuestionReply] PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+
+
+CREATE TABLE [dbo].[tblUser] (
+    [ID]         INT            IDENTITY (1, 1) NOT NULL,
+    [UserName]   NVARCHAR (100) NULL,
+    [Password]   NVARCHAR (50)  NULL,
+    [CompanyID]  INT            NULL,
+    [Email]      NVARCHAR (50)  NULL,
+    [Name]       NVARCHAR (100) NULL,
+    [SurName]    NVARCHAR (100) NULL,
+    [Phone]      NVARCHAR (50)  NULL,
+    [Adress]     NVARCHAR (500) NULL,
+    [BirthDay]   DATETIME       NULL,
+    [TcNo]       NVARCHAR (50)  NULL,
+    [RoleTypeID] INT            NULL,
+    CONSTRAINT [PK_tblUser] PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+

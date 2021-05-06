@@ -1,0 +1,296 @@
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\NURI\Desktop\ProjeSon\bin\Debug\ProjeSon.exe.config
+C:\Users\NURI\Desktop\ProjeSon\bin\Debug\ProjeSon.exe
+C:\Users\NURI\Desktop\ProjeSon\bin\Debug\ProjeSon.pdb
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.exe
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.pdb
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.LoginForm.resources
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\NURI\Desktop\ProjeSon\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\proje\ProjeSon\bin\Debug\ProjeSon.exe.config
+C:\Users\Net\Desktop\proje\ProjeSon\bin\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\proje\ProjeSon\bin\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.LoginForm.resources
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\proje\ProjeSon\obj\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\ProjeSon\bin\Debug\ProjeSon.exe.config
+C:\Users\Net\Desktop\ProjeSon\bin\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\ProjeSon\bin\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.LoginForm.resources
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\ProjeSon\obj\Debug\ProjeSon.pdb
+C:\Users\NURI\Desktop\ProjeSon_3\bin\Debug\ProjeSon.exe.config
+C:\Users\NURI\Desktop\ProjeSon_3\bin\Debug\ProjeSon.exe
+C:\Users\NURI\Desktop\ProjeSon_3\bin\Debug\ProjeSon.pdb
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.LoginForm.resources
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.exe
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.pdb
+C:\Users\NURI\Desktop\ProjeSon_3\obj\Debug\ProjeSon.Login__Form.resources
+C:\Users\Net\Desktop\ProjeSon_3\bin\Debug\ProjeSon.exe.config
+C:\Users\Net\Desktop\ProjeSon_3\bin\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\ProjeSon_3\bin\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.LoginForm.resources
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.Login__Form.resources
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\ProjeSon_3\obj\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\son\bin\Debug\ProjeSon.exe.config
+C:\Users\Net\Desktop\son\bin\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\son\bin\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.LoginForm.resources
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.Login__Form.resources
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\son\obj\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\aaaa\bin\Debug\ProjeSon.exe.config
+C:\Users\Net\Desktop\aaaa\bin\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\aaaa\bin\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.LoginForm.resources
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.Login__Form.resources
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\aaaa\obj\Debug\ProjeSon.NormUserReg.resources
+C:\Users\Net\Desktop\aaaaa\bin\Debug\ProjeSon.exe.config
+C:\Users\Net\Desktop\aaaaa\bin\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\aaaaa\bin\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.Login__Form.resources
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.NormUserReg.resources
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\aaaaa\obj\Debug\ProjeSon.NormUsrForm.resources
+C:\Users\Net\Desktop\eeeee\bin\Debug\ProjeSon.exe.config
+C:\Users\Net\Desktop\eeeee\bin\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\eeeee\bin\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.Login__Form.resources
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.NormUserReg.resources
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.NormUsrForm.resources
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.DateApp.resources
+C:\Users\Net\Desktop\eeeee\obj\Debug\ProjeSon.TimeApp.resources
+C:\Users\NURI\Desktop\randevulu\bin\Debug\ProjeSon.exe.config
+C:\Users\NURI\Desktop\randevulu\bin\Debug\ProjeSon.exe
+C:\Users\NURI\Desktop\randevulu\bin\Debug\ProjeSon.pdb
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.DateApp.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.Login__Form.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.NormUserReg.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.NormUsrForm.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.TimeApp.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.exe
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.pdb
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.QuestionForm.resources
+C:\Users\NURI\Desktop\randevulu\obj\Debug\ProjeSon.ReplyForm.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.DateApp.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.Login__Form.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.Norm.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.NormUserReg.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.NormUsrForm.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.QuestionForm.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.ReplyForm.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.TimeApp.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\randevulu_2\bin\Debug\ProjeSon.exe.config
+C:\Users\Net\Desktop\randevulu_2\bin\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\randevulu_2\bin\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.musaitlik.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.CompEmpDate.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.CompEmpTime.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.CompEmpForm1.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.musaitlikgor.resources
+C:\Users\Net\Desktop\randevulu_2\obj\Debug\ProjeSon.NormAppShow.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\bin\Debug\ProjeSon.exe.config
+C:\Users\Net\Desktop\tasarimli\tasarimli1\bin\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\tasarimli\tasarimli1\bin\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.CompEmpDate.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.CompEmpTime.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.DateApp.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.Login__Form.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.musaitlik.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.musaitlikgor.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.Norm.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.NormAppShow.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.NormUserReg.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.NormUsrForm.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.TimeApp.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.CompEmpForm1.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.AllApp.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.AllEmpShow.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.Ask.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.ShowQuestion.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.AnswerQuestion.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.NormShowAnswer.resources
+C:\Users\Net\Desktop\tasarimli\tasarimli1\obj\Debug\ProjeSon.NormShowReply.resources
+C:\Users\Net\Desktop\tasarimli\SON19\bin\Debug\ProjeSon.exe.config
+C:\Users\Net\Desktop\tasarimli\SON19\bin\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\tasarimli\SON19\bin\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.AllApp.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.AllEmpShow.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.AnswerQuestion.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.Ask.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.CompEmpDate.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.CompEmpTime.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.DateApp.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.musaitlik.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.musaitlikgor.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.Norm.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.NormAppShow.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.NormShowAnswer.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.NormShowReply.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.NormUserReg.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.NormUsrForm.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.ShowQuestion.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.TimeApp.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.CompEmpForm1.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.AllUserShow.resources
+C:\Users\Net\Desktop\tasarimli\SON19\obj\Debug\ProjeSon.Login_Form.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\bin\Debug\ProjeSon.exe.config
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\bin\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\bin\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.csprojAssemblyReference.cache
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.AllApp.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.AllEmpShow.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.AllUserShow.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.AnswerQuestion.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.Ask.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.CompAddForm.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.CompDeleteForm.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.CompEmpDate.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.CompEmpTime.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.CompUpdateForm.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.CompEmpAddForm.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.AdminForm.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.DateApp.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.Login_Form.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.Norm.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.NormAppShow.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.NormShowAnswer.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.NormShowReply.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.NormUserReg.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.NormUsrForm.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.ShowQuestion.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.TimeApp.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.CompEmpForm1.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.exe
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.pdb
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.availability.resources
+C:\Users\Net\Desktop\2. sinif 1.donem\190601070\obj\Debug\ProjeSon.showavailability.resources
